@@ -1,1 +1,4 @@
-
+dataiku-api-client
+flask
+pandas
+logai
